@@ -1,2 +1,2 @@
 # Innova-PRO
-Accelerator 2024-1 PRO
+Accelerator 2024-1 FULL-STACK PROJECT
